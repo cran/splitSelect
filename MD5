@@ -1,10 +1,11 @@
-9c68d85258a47e0125314f9fd77648d1 *DESCRIPTION
-74aa582dfce7f6d177955a8c23212f6e *NAMESPACE
-ccc440a0fe89f9ffb3a4f7a5493d621a *NEWS.md
+b23cd45d4a9f97340733096ec8895d8e *DESCRIPTION
+2c897d577bd918045e3ebc796b09496d *NAMESPACE
+735c6a2188b710262a3f04c18c027a62 *NEWS.md
 528cbad3cc4990237f075279d5f58549 *R/coef.cv.splitSelect.R
 c1952d04050374e47811122e7be9b1ae *R/coef.splitSelect.R
-8aeab0499b81da41054cb073eeaa82f5 *R/cv.splitSelect.R
-d3ab6423f2d9223360290c3bc39eb5ca *R/generate_partitions.R
+a97dea5a8a4dd0b38ba481770155f4f6 *R/create_folds.R
+cbd53f4418d1d5418bbf19d10eaa710e *R/cv.splitSelect.R
+d747f42b8a25ad44b3118d191f05720f *R/generate_partitions.R
 9b4c7f02ca11b308fd8c56bced50e6dd *R/generate_splits.R
 6160c9a5385eebb84e9c6177512f38c8 *R/nsplit.R
 77c8f03f8d41551f6fb0d02629be42ab *R/predict.cv.splitSelect.R
@@ -14,7 +15,7 @@ b5dbde6db8b5fa3e1936ccf16cf84574 *R/splitSelect.R
 14130d55da088a73ac7524645e1dc413 *R/splitSelect_coef.R
 fc1d60b1a3ddc552b861bf11525cdf07 *R/utils_splitSelect_construction.R
 b77dbbe23fd7d160c35af6f74766c34c *R/utils_splits_generations.R
-8a39f676d495327e15cf1dbd919b27c3 *README.md
+afb721ba4580030f669aebc71be1ac8c *README.md
 bcaaf46ff803a580b86917bc27f31296 *man/coef.cv.splitSelect.Rd
 c8f7c539a9c482f1a3a6d477f2c28aa6 *man/coef.splitSelect.Rd
 d886b247f3594be794001dc5ef4c5c18 *man/cv.splitSelect.Rd
