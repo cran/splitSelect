@@ -1,8 +1,8 @@
 Package: splitSelect
 Type: Package
 Title: Best Split Selection Modeling for Low-Dimensional Data
-Version: 1.0.2
-Date: 2021-10-05
+Version: 1.0.3
+Date: 2021-11-08
 Author: Anthony Christidis <anthony.christidis@stat.ubc.ca>,
     Stefan Van Aelst <stefan.vanaelst@kuleuven.be>,
     Ruben Zamar <ruben@stat.ubc.ca>
@@ -17,6 +17,6 @@ Imports: multicool, glmnet, parallel, doParallel, foreach
 RoxygenNote: 7.1.1
 Suggests: testthat, mvnfast
 NeedsCompilation: no
-Packaged: 2021-10-08 16:27:33 UTC; antho
+Packaged: 2021-11-09 04:02:22 UTC; antho
 Repository: CRAN
-Date/Publication: 2021-10-08 16:40:02 UTC
+Date/Publication: 2021-11-09 06:00:02 UTC
